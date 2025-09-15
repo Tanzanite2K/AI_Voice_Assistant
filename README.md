@@ -57,7 +57,3 @@
 ### Run the app
 ```streamlit run main.py```
 
----
-=======
-# AI_Voice_Assistant
->>>>>>> 282245e9860fab4be6143c524cdb9d494b1016bf
