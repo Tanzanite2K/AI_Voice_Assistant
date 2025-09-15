@@ -40,7 +40,7 @@
 ---
 
 ### Clone the repo and navigate into it
-```git clone https://github.com/samay-jain/Voice_Assistant_RAG_System_using_LangChain_and_Streamlit```
+```git clone https://github.com/Tanzanite2K/AI_Voice_Assistant```
 
 ### Create and activate virtual environment
 ```python -m venv venv && source venv/bin/activate  # On Windows use: venv\Scripts\activate```
